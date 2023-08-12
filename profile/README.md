@@ -17,6 +17,10 @@ The Junter.dev team is driven by a passion for revolutionizing web development a
 
 - [Website][web]
 
+[web]: https://junter.dev/
+[junter]: https://github.com/junter-dev/junter "junter"
+[render-service]: https://github.com/junter-dev/junter-render-service "junter-render-service"
+
 ## Supporting Junter.dev:
 
 Junter.dev operates as a non-profit entity. We neither seek nor accept donations or sponsorships. Our motivation stems from the drive to advance the developer community and the web development landscape. We don't offer paid services or consultancy.
